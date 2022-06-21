@@ -1,0 +1,16 @@
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.AssemblyInfo.cs
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.exe
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.deps.json
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.runtimeconfig.json
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.runtimeconfig.dev.json
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.dll
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\ref\KosuMesafeOdev.dll
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\bin\Debug\net5.0\KosuMesafeOdev.pdb
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.dll
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\ref\KosuMesafeOdev.dll
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.pdb
+C:\Users\muham\source\repos\KosuMesafeOdev\KosuMesafeOdev\obj\Debug\net5.0\KosuMesafeOdev.genruntimeconfig.cache
